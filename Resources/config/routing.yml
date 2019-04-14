@@ -1,0 +1,3 @@
+kot_soft_user_info_homepage:
+    path:     /
+    defaults: { _controller: KotSoftUserInfoBundle:Default:index }

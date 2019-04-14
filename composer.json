@@ -1,0 +1,14 @@
+{
+    "name": "kot/user-info-bundle",
+    "description": "UserInfo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anisimov",
+            "email": "kostiaGm@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

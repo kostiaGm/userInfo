@@ -1,0 +1,4 @@
+services:
+#    kot_soft_user_info.example:
+#        class: KotSoft\UserInfoBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
